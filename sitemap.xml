@@ -10,7 +10,7 @@
   </url>
   
   <url>
-    <loc>https://ricompute.github.io/apsa-website-test/page/resources/academics/</loc>
+    <loc>https://ricompute.github.io/apsa-website-test/resources/academics/</loc>
   </url>
   
   <url>
@@ -19,11 +19,16 @@
   </url>
   
   <url>
-    <loc>https://ricompute.github.io/apsa-website-test/page/resources/community/</loc>
+    <loc>https://ricompute.github.io/apsa-website-test/resources/community/</loc>
   </url>
   
   <url>
     <loc>https://ricompute.github.io/apsa-website-test/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/resources/</loc>
     <priority>0</priority>
   </url>
   
