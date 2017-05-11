@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/page/academics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/page/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ricompute.github.io/apsa-website-test/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

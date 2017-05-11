@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on APSA LLU</title>
+    <link>https://ricompute.github.io/apsa-website-test/page/</link>
+    <description>Recent content in Pages on APSA LLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (APSA LLU)</managingEditor>
+    <webMaster>youremail@domain.com (APSA LLU)</webMaster>
+    
+	<atom:link href="https://ricompute.github.io/apsa-website-test/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About APSA LLU</title>
+      <link>https://ricompute.github.io/apsa-website-test/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (APSA LLU)</author>
+      <guid>https://ricompute.github.io/apsa-website-test/page/about/</guid>
+      <description>Mission Statement The mission of APSA at Loma Linda University is to inspire, empower, and equip physician-scientists at Loma Linda University for success by:
+ Recognizing the personal worth of its members and the unique talents they can contribute to this organization&amp;rsquo;s future. Educating and providing opportunities that integrate clinical practice and basic science. Facilitating networking and career opportunities in business, policy, research, and academics. Providing community, mentorship, guidance, and leadership opportunities to physician-scientists in training.</description>
+    </item>
+    
+    <item>
+      <title>Academics</title>
+      <link>https://ricompute.github.io/apsa-website-test/page/academics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (APSA LLU)</author>
+      <guid>https://ricompute.github.io/apsa-website-test/page/academics/</guid>
+      <description>[Insert content&amp;hellip;]</description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://ricompute.github.io/apsa-website-test/page/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (APSA LLU)</author>
+      <guid>https://ricompute.github.io/apsa-website-test/page/community/</guid>
+      <description>[Insert content&amp;hellip;]</description>
+    </item>
+    
+  </channel>
+</rss>

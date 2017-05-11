@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on APSA LLU</title>
+    <link>https://ricompute.github.io/apsa-website-test/tags/</link>
+    <description>Recent content in Tags on APSA LLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (APSA LLU)</managingEditor>
+    <webMaster>youremail@domain.com (APSA LLU)</webMaster>
+    
+	<atom:link href="https://ricompute.github.io/apsa-website-test/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
